@@ -375,7 +375,7 @@ body {
 
 #projects {
   padding: 3rem 0;
-  background: rgba(243, 243, 243);
+  background: rgba(255, 255, 255, 0.046);
 }
 
 .project-title {
